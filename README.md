@@ -1,5 +1,5 @@
 ## Hi there 👋
-##Welcome to my Github account! I am currently learning how to use it!
+Welcome to my Github account! I am currently learning how to use it!
 
 <!--
 **ghn9zh/ghn9zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
